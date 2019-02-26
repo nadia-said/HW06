@@ -1,3 +1,3 @@
 #test
 # HW06
-some changes are mad as a mistake
+some changes are made as a mistake
