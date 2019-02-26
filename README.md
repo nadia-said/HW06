@@ -1,8 +1,5 @@
 #test
 # HW06
 
-here are some actual changes
-
-some more changes 
-
-even more changes 
+some changes are made as a mistake
+ master
